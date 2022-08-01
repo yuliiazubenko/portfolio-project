@@ -42,7 +42,7 @@ p {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 
 .hero p {
@@ -77,7 +77,7 @@ p {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .content {
@@ -195,7 +195,6 @@ footer .social-links a:hover {
   .hero {
     background: var(--secondary-color);
     text-align: center;
-    padding: 80px 20px;
   }
 
   .project-description {
@@ -206,6 +205,10 @@ footer .social-links a:hover {
   .about-section {
     text-align: center;
     padding: 0;
+  }
+
+  .content {
+    text-align: center;
   }
 
   nav a {
