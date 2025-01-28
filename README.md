@@ -1,7 +1,7 @@
 # Portfolio Project
 
 # Project Description📝:
-- The site features a clean, modern UI, project highlights (Yogurt Project, Weather App, and Dictionary App), and an interactive contact section. It integrates responsive design principles with Bootstrap for layout styling. 
+- The site features a clean, modern UI, project highlights (Yogurt Project, Weather App), and an interactive contact section. It integrates responsive design principles with Bootstrap for layout styling. 
 
 # Technologies Used💻:
 - CSS3 (SCSS): Manages the page's styling.
